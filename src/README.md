@@ -1,9 +1,7 @@
 # Source Code for Parallel Computations
 - - -
 
-* *MPI*
-
-* *POSIX Thread*
-
-* *OpenMP*
+* **MPI**
+* **POSIX Thread**
+* **OpenMP**
 
